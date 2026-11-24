@@ -7,7 +7,7 @@ ZeroBin 이 만든 안드로이드 게임을 받을 수 있는 곳이에요. 누
 | 게임 | 소개 | 받기 |
 |---|---|---|
 | ⚔ **소드 스톰** | 검 하나로 몰려오는 몬스터를 휩쓰는 서바이벌 액션. 검을 사고 강화하고, 펫과 함께 50 스테이지를 밀어요 | [**sword-storm.apk**](https://github.com/ZeroBin-dev/zerobin-apps/releases/download/sword-storm/sword-storm.apk) · [버전 기록](https://github.com/ZeroBin-dev/zerobin-apps/releases/tag/sword-storm) |
-| 🎲 **보드게임 파티** | 티카투카·알까기·딱지치기·과일 종치기·도둑잡기·대포 대결·통통 배구·데굴 볼링·승부차기·실시간 땅따먹기(최대 8명). 혼자면 AI(쉬움·보통·어려움), 같은 와이파이면 여럿이. 메달·연승 트로피로 아바타 꾸미기 | [**board-party.apk**](https://github.com/ZeroBin-dev/zerobin-apps/releases/download/board-party/board-party.apk) · [버전 기록](https://github.com/ZeroBin-dev/zerobin-apps/releases/tag/board-party) |
+| 🎲 **보드게임 파티** | 티카투카·알까기·딱지치기·과일 종치기·도둑잡기·대포 대결·통통 배구·데굴 볼링·승부차기·과일 합치기·실시간 땅따먹기(최대 8명). 혼자면 AI(쉬움·보통·어려움), 같은 와이파이면 여럿이. 메달·연승 트로피로 아바타 꾸미기 | [**board-party.apk**](https://github.com/ZeroBin-dev/zerobin-apps/releases/download/board-party/board-party.apk) · [버전 기록](https://github.com/ZeroBin-dev/zerobin-apps/releases/tag/board-party) |
 | 🌙 **나이트 바리케이드** | 밤마다 몰려오는 좀비를 바리케이드와 친구들로 막아내는 생존 게임. 같은 와이파이에서 같이 하기 | [**night-barricade.apk**](https://github.com/ZeroBin-dev/zerobin-apps/releases/download/night-barricade/night-barricade.apk) · [버전 기록](https://github.com/ZeroBin-dev/zerobin-apps/releases/tag/night-barricade) |
 
 > 링크가 아직 안 열리면 첫 빌드가 올라오기 전이에요.
